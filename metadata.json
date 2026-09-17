@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Name": "Desktop Scrollery",
+        "Description": "Make your desktops feel more spacious by allowing you to scroll them",
+        "Icon": "preferences-system-windows-move",
+        "Authors": [
+            {
+                "Email": "patchsalts@gmail.com",
+                "Name": "Patch Salts"
+            }
+        ],
+        "Id": "desktop-scrollery",
+        "Website": "https://github.com/PatchSalts/desktop-scrollery"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
